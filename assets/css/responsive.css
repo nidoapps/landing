@@ -740,13 +740,6 @@
   .message-section .message_content textarea {
     height: 170px;
   }
-  .message-section .message_content select {
-    padding: 8px 10px;
-    margin-bottom: 10px;
-  }
-  .message-section .message_content select {
-    font-size: 14px;
-  }
   .message-section .message_content .submit_now {
     padding: 18px 40px;
   }
